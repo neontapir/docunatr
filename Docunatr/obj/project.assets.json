@@ -297,11 +297,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\durfeech\\source\\repos\\UnitTestProject1\\Docunatr\\Docunatr.csproj",
+      "projectUniqueName": "C:\\Users\\durfeech\\git\\github\\neontapir\\docunatr\\Docunatr\\Docunatr.csproj",
       "projectName": "Docunatr",
-      "projectPath": "C:\\Users\\durfeech\\source\\repos\\UnitTestProject1\\Docunatr\\Docunatr.csproj",
+      "projectPath": "C:\\Users\\durfeech\\git\\github\\neontapir\\docunatr\\Docunatr\\Docunatr.csproj",
       "packagesPath": "C:\\Users\\durfeech\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\durfeech\\source\\repos\\UnitTestProject1\\Docunatr\\obj\\",
+      "outputPath": "C:\\Users\\durfeech\\git\\github\\neontapir\\docunatr\\Docunatr\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -5827,11 +5827,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\durfeech\\source\\repos\\UnitTestProject1\\Docunatr.Test\\Docunatr.Test.csproj",
+      "projectUniqueName": "C:\\Users\\durfeech\\git\\github\\neontapir\\docunatr\\Docunatr.Test\\Docunatr.Test.csproj",
       "projectName": "Docunatr.Test",
-      "projectPath": "C:\\Users\\durfeech\\source\\repos\\UnitTestProject1\\Docunatr.Test\\Docunatr.Test.csproj",
+      "projectPath": "C:\\Users\\durfeech\\git\\github\\neontapir\\docunatr\\Docunatr.Test\\Docunatr.Test.csproj",
       "packagesPath": "C:\\Users\\durfeech\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\durfeech\\source\\repos\\UnitTestProject1\\Docunatr.Test\\obj\\",
+      "outputPath": "C:\\Users\\durfeech\\git\\github\\neontapir\\docunatr\\Docunatr.Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5855,8 +5855,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\durfeech\\source\\repos\\UnitTestProject1\\Docunatr\\Docunatr.csproj": {
-              "projectPath": "C:\\Users\\durfeech\\source\\repos\\UnitTestProject1\\Docunatr\\Docunatr.csproj"
+            "C:\\Users\\durfeech\\git\\github\\neontapir\\docunatr\\Docunatr\\Docunatr.csproj": {
+              "projectPath": "C:\\Users\\durfeech\\git\\github\\neontapir\\docunatr\\Docunatr\\Docunatr.csproj"
             }
           }
         }
