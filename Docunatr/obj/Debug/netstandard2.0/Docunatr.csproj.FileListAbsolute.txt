@@ -1,0 +1,12 @@
+C:\Users\durfeech\source\repos\UnitTestProject1\Docunatr\obj\Debug\netstandard2.0\Docunatr.csprojAssemblyReference.cache
+C:\Users\durfeech\source\repos\UnitTestProject1\Docunatr\obj\Debug\netstandard2.0\Docunatr.csproj.CoreCompileInputs.cache
+C:\Users\durfeech\source\repos\UnitTestProject1\Docunatr\obj\Debug\netstandard2.0\Docunatr.AssemblyInfoInputs.cache
+C:\Users\durfeech\source\repos\UnitTestProject1\Docunatr\obj\Debug\netstandard2.0\Docunatr.AssemblyInfo.cs
+C:\Users\durfeech\source\repos\UnitTestProject1\Docunatr\bin\Debug\netstandard2.0\Docunatr.deps.json
+C:\Users\durfeech\source\repos\UnitTestProject1\Docunatr\bin\Debug\netstandard2.0\Docunatr.dll
+C:\Users\durfeech\source\repos\UnitTestProject1\Docunatr\bin\Debug\netstandard2.0\Newtonsoft.Json.dll
+C:\Users\durfeech\source\repos\UnitTestProject1\Docunatr\bin\Debug\netstandard2.0\Newtonsoft.Json.xml
+C:\Users\durfeech\source\repos\UnitTestProject1\Docunatr\obj\Debug\netstandard2.0\Docunatr.csproj.CopyComplete
+C:\Users\durfeech\source\repos\UnitTestProject1\Docunatr\bin\Debug\netstandard2.0\Docunatr.pdb
+C:\Users\durfeech\source\repos\UnitTestProject1\Docunatr\obj\Debug\netstandard2.0\Docunatr.dll
+C:\Users\durfeech\source\repos\UnitTestProject1\Docunatr\obj\Debug\netstandard2.0\Docunatr.pdb
