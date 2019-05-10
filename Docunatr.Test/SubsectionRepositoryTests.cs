@@ -88,5 +88,21 @@ namespace Docunatr.Test
             var actual = repo.Retrieve(specification);
             CollectionAssert.AreEquivalent(new[] {subsection1, subsection2}, actual.ToArray());
         }
+
+        [TestMethod]
+        public void SubsectionRepository_EmptyIfNoItemsFoundBySpecification()
+        {
+            var repo = new SubsectionRepository();
+            repo.Empty();
+
+            var subsection1 = new Subsection("第一款");
+            repo.Store(subsection1);
+            var subsection2 = new Subsection("第二款");
+            repo.Store(subsection2);
+
+            var specification = new SubsectionTitleContains("Subsection");
+            var actual = repo.Retrieve(specification);
+            CollectionAssert.AreEquivalent(new Subsection[0] , actual.ToArray());
+        }
     }
 }

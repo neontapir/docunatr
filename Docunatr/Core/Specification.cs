@@ -1,4 +1,5 @@
 using System;
+using System.Linq;
 using System.Linq.Expressions;
 
 namespace Docunatr.Core
@@ -22,6 +23,26 @@ namespace Docunatr.Core
         public static implicit operator Func<T, bool>(Specification<T> specification)
         {
             return specification.ToExpression().Compile();
+        }
+
+        public Specification<T> And(Specification<T> other)
+        {
+            return new AndSpecification<T>(this, other);
+        }
+
+        public Specification<T> Or(Specification<T> other)
+        {
+            return new OrSpecification<T>(this, other);
+        }
+
+        public Specification<T> Not()
+        {
+            return new NotSpecification<T>(this);
+        }
+
+        public Specification<T> Xor(Specification<T> other)
+        {
+            return new XorSpecification<T>(this, other);
         }
     }
 }
