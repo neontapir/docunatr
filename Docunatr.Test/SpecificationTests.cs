@@ -56,7 +56,7 @@ namespace Docunatr.Test
             Specification<string> startsWithF = new StartsWithFSpecification();
 
             Assert.IsTrue(isLowercase.Or(startsWithF).IsSatisfiedBy("foo"), "foo (both)");
-            Assert.IsTrue(isLowercase.Or(startsWithF).IsSatisfiedBy("flaMINGO"), "fl4M1ng0 (starts with f)");
+            Assert.IsTrue(isLowercase.Or(startsWithF).IsSatisfiedBy("fl4M1ng0"), "fl4M1ng0 (starts with f)");
             Assert.IsTrue(isLowercase.Or(startsWithF).IsSatisfiedBy("bar"), "bar (lowercase)");
             Assert.IsFalse(isLowercase.Or(startsWithF).IsSatisfiedBy("Bassoon"), "Bassoon (neither)");
         }
